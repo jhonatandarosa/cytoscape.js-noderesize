@@ -1,0 +1,22 @@
+{
+  "name": "cytoscape-noderesize",
+  "version": "1.0.0",
+  "description": "A plugin that creates a node resize control",
+  "main": "cytoscape-noderesize.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cytoscape-noderesize.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "cytoscape",
+    "cyext"
+  ],
+  "license": "MIT"
+}
