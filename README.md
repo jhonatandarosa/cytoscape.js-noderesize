@@ -4,7 +4,7 @@ cytoscape-noderesize
 
 ## Description
 
-A plugin that creates a node resize control
+A plugin that creates a node resize control, based on https://github.com/cytoscape/cytoscape.js-edgehandles
 
 
 ## Dependencies
